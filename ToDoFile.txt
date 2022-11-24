@@ -1,0 +1,4 @@
+laundry,low
+go shopping,high
+feed the dogs,low
+cook dinner,low
